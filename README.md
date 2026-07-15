@@ -7,8 +7,10 @@
 # 🏀 پروژه جامع تحلیل داده NBA - بوت‌کمپ کوئرا
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![SQL](https://img.shields.io/badge/database-SQLite%20%7C%20MySQL-orange.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/your-username/your-repo)
+[![SQL](https://img.shields.io/badge/SQL-Database-blue.svg)]()
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12-brightgreen.svg)]()
+[![Selenium](https://img.shields.io/badge/Selenium-4.15-brightgreen.svg)]()
 
 ## 📌 نمای کلی پروژه
 
@@ -51,7 +53,7 @@
 ## 🛠️ تکنولوژی‌ها و کتابخانه‌های استفاده‌شده
 
 - **زبان برنامه‌نویسی**: Python 3.9+
-- **وب اسکرپینگ**: `Requests`, `BeautifulSoup4`
+- **وب اسکرپینگ**: `Requests`,`selenium` ,`BeautifulSoup4`
 - **مدیریت کد و همکاری**: `Git` / `GitHub`
 
 ---
