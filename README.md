@@ -62,20 +62,20 @@
 
 برای اجرای این پروژه بر روی سیستم خود، مراحل زیر را به ترتیب دنبال کنید:
 
-  **کلون کردن مخزن**:
+-  **کلون کردن مخزن**:
     ```bash
     git clone https://github.com/your-username/basketball-data-bootcamp.git
     cd basketball-data-bootcamp
     ```
 
-  **ایجاد محیط مجاز (Virtual Environment)** (اختیاری اما پیشنهادی):
+-  **ایجاد محیط مجاز (Virtual Environment)** (اختیاری اما پیشنهادی):
     ```bash
     python -m venv venv
     source venv/bin/activate   # mac/linux
     venv\Scripts\activate      # windows
     ```
 
-  **نصب کتابخانه‌های مورد نیاز**:
+-  **نصب کتابخانه‌های مورد نیاز**:
     ```bash
     pip install -r requirements.txt
     ```
