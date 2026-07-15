@@ -69,5 +69,5 @@ if __name__ == "__main__":
     print("="*80)
     print(df.to_string(index=False))
 
-    df.to_csv('nba_seasons_2018_2026.csv', index=False, encoding='utf-8-sig')
-    print("\nCSV file 'nba_seasons_2018_2026.csv' has been saved.")
+    df.to_csv('seasons_2018_2026.csv', index=False, encoding='utf-8-sig')
+    print("\nCSV file 'seasons_2018_2026.csv' has been saved.")
