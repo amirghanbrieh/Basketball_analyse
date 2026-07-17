@@ -5,6 +5,8 @@
 
 # 🏀 پروژه جامع تحلیل داده NBA - بوت‌کمپ کوئرا
 
+---
+
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/your-username/your-repo)
 [![SQL](https://img.shields.io/badge/SQL-Database-blue.svg)]()
